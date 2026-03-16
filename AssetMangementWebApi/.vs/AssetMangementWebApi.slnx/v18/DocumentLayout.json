@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|c:\\users\\rajveer.singh\\source\\repos\\assetmangementwebapi\\assetmangementwebapi\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|solutionrelative:assetmangementwebapi\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|c:\\users\\rajveer.singh\\source\\repos\\assetmangementwebapi\\assetmangementwebapi\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|solutionrelative:assetmangementwebapi\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|c:\\users\\rajveer.singh\\source\\repos\\assetmangementwebapi\\assetmangementwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|solutionrelative:assetmangementwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|c:\\users\\rajveer.singh\\source\\repos\\assetmangementwebapi\\assetmangementwebapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DB9F97-580B-85EC-DE20-4A58C0CBAAB5}|AssetMangementWebApi\\AssetMangementWebApi.csproj|solutionrelative:assetmangementwebapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "AssetMangementWebApi\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Services\\AssetService.cs",
+              "RelativeToolTip": "AssetMangementWebApi\\Services\\AssetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:19:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "AssetMangementWebApi\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "AssetMangementWebApi\\Controllers\\AssetController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:11:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "AssetMangementWebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "AssetMangementWebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T05:54:25.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "AssetMangementWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AssetMangementWebApi\\AssetMangementWebApi\\Program.cs",
+              "RelativeToolTip": "AssetMangementWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:57:28.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

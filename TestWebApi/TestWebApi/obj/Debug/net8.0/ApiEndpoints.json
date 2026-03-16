@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TestWebApi.Controllers.EmployeeTasksController",
+    "Method": "GetALL",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestWebApi.Controllers.EmployeeTasksController",
+    "Method": "Add",
+    "RelativePath": "api/EmployeeTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TestWebApi.Models.EmployeeTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestWebApi.Controllers.EmployeeTasksController",
+    "Method": "GetById",
+    "RelativePath": "api/EmployeeTasks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestWebApi.Controllers.EmployeeTasksController",
+    "Method": "Update",
+    "RelativePath": "api/EmployeeTasks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "task",
+        "Type": "TestWebApi.Models.EmployeeTask",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestWebApi.Controllers.EmployeeTasksController",
+    "Method": "Delete",
+    "RelativePath": "api/EmployeeTasks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

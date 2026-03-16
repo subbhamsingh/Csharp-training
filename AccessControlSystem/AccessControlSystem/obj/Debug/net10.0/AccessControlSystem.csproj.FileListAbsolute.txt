@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\bin\Debug\net10.0\AccessControlSystem.exe
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\bin\Debug\net10.0\AccessControlSystem.deps.json
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\bin\Debug\net10.0\AccessControlSystem.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\bin\Debug\net10.0\AccessControlSystem.dll
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\bin\Debug\net10.0\AccessControlSystem.pdb
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.dll
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\refint\AccessControlSystem.dll
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.pdb
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\AccessControlSystem.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\AccessControlSystem\AccessControlSystem\obj\Debug\net10.0\ref\AccessControlSystem.dll

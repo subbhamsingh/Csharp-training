@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\services\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\services\\clinicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\relationships\\appointementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\relationships\\appointementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\relationships\\appointementstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\relationships\\appointementstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\relationships\\appointement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\relationships\\appointement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\interfaces\\iavailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\interfaces\\iavailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\relationships\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\relationships\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\interfaces\\ibillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\interfaces\\ibillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\exceptions\\appointmentconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\exceptions\\appointmentconflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\clinicsystem\\clinicsystem\\exceptions\\patientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\exceptions\\patientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointementStatus.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\AppointementStatus.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\RelationShips\\AppointementStatus.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\AppointementStatus.cs",
+              "RelativeToolTip": "ClinicSystem\\RelationShips\\AppointementStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:54:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointementType.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\AppointementType.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\RelationShips\\AppointementType.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\AppointementType.cs",
+              "RelativeToolTip": "ClinicSystem\\RelationShips\\AppointementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:33:34.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClinicService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Services\\ClinicService.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Services\\ClinicService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Services\\ClinicService.cs",
+              "RelativeToolTip": "ClinicSystem\\Services\\ClinicService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:15:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Program.cs",
+              "RelativeToolTip": "ClinicSystem\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:36:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Services\\ValidationService.cs",
+              "RelativeToolTip": "ClinicSystem\\Services\\ValidationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:39:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Doctor.cs",
+              "RelativeToolTip": "ClinicSystem\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:37:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointement.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\Appointement.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\RelationShips\\Appointement.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\Appointement.cs",
+              "RelativeToolTip": "ClinicSystem\\RelationShips\\Appointement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:51:26.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAvailable.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Interfaces\\IAvailable.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Interfaces\\IAvailable.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Interfaces\\IAvailable.cs",
+              "RelativeToolTip": "ClinicSystem\\Interfaces\\IAvailable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:19:59.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Patient.cs",
+              "RelativeToolTip": "ClinicSystem\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:37:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Entities\\Person.cs",
+              "RelativeToolTip": "ClinicSystem\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:37:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\Prescription.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\RelationShips\\Prescription.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\RelationShips\\Prescription.cs",
+              "RelativeToolTip": "ClinicSystem\\RelationShips\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:58:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBillable.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Interfaces\\IBillable.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Interfaces\\IBillable.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Interfaces\\IBillable.cs",
+              "RelativeToolTip": "ClinicSystem\\Interfaces\\IBillable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:21:06.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Exceptions\\AppointmentConflictException.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Exceptions\\AppointmentConflictException.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Exceptions\\AppointmentConflictException.cs",
+              "RelativeToolTip": "ClinicSystem\\Exceptions\\AppointmentConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:02:46.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Exceptions\\PatientNotFoundException.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Exceptions\\PatientNotFoundException.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\ClinicSystem\\ClinicSystem\\Exceptions\\PatientNotFoundException.cs",
+              "RelativeToolTip": "ClinicSystem\\Exceptions\\PatientNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:03:31.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

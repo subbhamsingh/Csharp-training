@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\rules\\iaccessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\rules\\iaccessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\services\\checkaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\services\\checkaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\rules\\rolepermissionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\rules\\rolepermissionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\models\\accessdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\models\\accessdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\enums\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\enums\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\enums\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\enums\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|c:\\users\\rajveer.singh\\source\\repos\\accesscontrolsystem\\accesscontrolsystem\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84CAA500-E931-F5A8-913B-EC47FAD5CC1F}|AccessControlSystem\\AccessControlSystem.csproj|solutionrelative:accesscontrolsystem\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\User.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:58:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAccessRule.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Rules\\IAccessRule.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Rules\\IAccessRule.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Rules\\IAccessRule.cs",
+              "RelativeToolTip": "AccessControlSystem\\Rules\\IAccessRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:28:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolePermissionRule.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Rules\\RolePermissionRule.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Rules\\RolePermissionRule.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Rules\\RolePermissionRule.cs",
+              "RelativeToolTip": "AccessControlSystem\\Rules\\RolePermissionRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:38:34.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Program.cs",
+              "RelativeToolTip": "AccessControlSystem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:58:07.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckAccessService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\CheckAccessService.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Services\\CheckAccessService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\CheckAccessService.cs",
+              "RelativeToolTip": "AccessControlSystem\\Services\\CheckAccessService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:47:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "AccessControlSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:43:51.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\Resource.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\Resource.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:59:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDecision.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\AccessDecision.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Models\\AccessDecision.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Models\\AccessDecision.cs",
+              "RelativeToolTip": "AccessControlSystem\\Models\\AccessDecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:59:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\Role.cs",
+              "RelativeToolTip": "AccessControlSystem\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:00:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\ActionType.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Enums\\ActionType.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\ActionType.cs",
+              "RelativeToolTip": "AccessControlSystem\\Enums\\ActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:00:30.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\ResourceType.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Enums\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Enums\\ResourceType.cs",
+              "RelativeToolTip": "AccessControlSystem\\Enums\\ResourceType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:00:50.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "AccessControlSystem\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\AccessControlSystem\\AccessControlSystem\\Services\\ValidationService.cs",
+              "RelativeToolTip": "AccessControlSystem\\Services\\ValidationService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T14:20:24.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\bin\Debug\net10.0\RuleBasedAccess.exe
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\bin\Debug\net10.0\RuleBasedAccess.deps.json
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\bin\Debug\net10.0\RuleBasedAccess.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\bin\Debug\net10.0\RuleBasedAccess.dll
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\bin\Debug\net10.0\RuleBasedAccess.pdb
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.dll
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\refint\RuleBasedAccess.dll
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.pdb
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\RuleBasedAccess.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\RuleBasedAccess\RuleBasedAccess\obj\Debug\net10.0\ref\RuleBasedAccess.dll

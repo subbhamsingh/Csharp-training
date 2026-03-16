@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\bin\Debug\net10.0\DelegatePractise.exe
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\bin\Debug\net10.0\DelegatePractise.deps.json
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\bin\Debug\net10.0\DelegatePractise.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\bin\Debug\net10.0\DelegatePractise.dll
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\bin\Debug\net10.0\DelegatePractise.pdb
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.dll
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\refint\DelegatePractise.dll
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.pdb
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\DelegatePractise.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\DelegatePractise\DelegatePractise\obj\Debug\net10.0\ref\DelegatePractise.dll

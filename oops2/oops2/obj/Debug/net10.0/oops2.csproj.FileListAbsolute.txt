@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\oops2\oops2\bin\Debug\net10.0\oops2.exe
+C:\Users\rajveer.singh\source\repos\oops2\oops2\bin\Debug\net10.0\oops2.deps.json
+C:\Users\rajveer.singh\source\repos\oops2\oops2\bin\Debug\net10.0\oops2.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\oops2\oops2\bin\Debug\net10.0\oops2.dll
+C:\Users\rajveer.singh\source\repos\oops2\oops2\bin\Debug\net10.0\oops2.pdb
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.dll
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\refint\oops2.dll
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.pdb
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\oops2.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\oops2\oops2\obj\Debug\net10.0\ref\oops2.dll

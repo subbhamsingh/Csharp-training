@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\bin\Debug\net10.0\ClinicSystem.exe
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\bin\Debug\net10.0\ClinicSystem.deps.json
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\bin\Debug\net10.0\ClinicSystem.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\bin\Debug\net10.0\ClinicSystem.dll
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\bin\Debug\net10.0\ClinicSystem.pdb
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.dll
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\refint\ClinicSystem.dll
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.pdb
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ref\ClinicSystem.dll

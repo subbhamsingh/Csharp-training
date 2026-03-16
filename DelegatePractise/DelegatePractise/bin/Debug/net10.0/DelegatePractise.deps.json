@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DelegatePractise/1.0.0": {
+        "runtime": {
+          "DelegatePractise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegatePractise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

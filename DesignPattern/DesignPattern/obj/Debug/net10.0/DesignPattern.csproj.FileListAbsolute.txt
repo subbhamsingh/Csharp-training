@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.exe
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.deps.json
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.dll
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\bin\Debug\net10.0\DesignPattern.pdb
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.dll
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\refint\DesignPattern.dll
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.pdb
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\DesignPattern.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\DesignPattern\DesignPattern\obj\Debug\net10.0\ref\DesignPattern.dll

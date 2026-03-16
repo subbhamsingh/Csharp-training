@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\bin\Debug\net10.0\OOPsPractice.exe
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\bin\Debug\net10.0\OOPsPractice.deps.json
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\bin\Debug\net10.0\OOPsPractice.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\bin\Debug\net10.0\OOPsPractice.dll
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\bin\Debug\net10.0\OOPsPractice.pdb
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.dll
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\refint\OOPsPractice.dll
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.pdb
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\OOPsPractice.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\OOPsPractice\OOPsPractice\obj\Debug\net10.0\ref\OOPsPractice.dll

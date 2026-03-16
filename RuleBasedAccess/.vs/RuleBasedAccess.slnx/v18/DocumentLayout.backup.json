@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\services\\checkaccesssercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\services\\checkaccesssercvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\constants\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\constants\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\constants\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\constants\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\rules\\rolepermissionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\rules\\rolepermissionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\rules\\iaccessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\rules\\iaccessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\constants\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\constants\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|c:\\users\\rajveer.singh\\source\\repos\\rulebasedaccess\\rulebasedaccess\\models\\accessdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8482261-51C9-2551-EBB8-61DFEB28E0EF}|RuleBasedAccess\\RuleBasedAccess.csproj|solutionrelative:rulebasedaccess\\models\\accessdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\ActionType.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Constants\\ActionType.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\ActionType.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Constants\\ActionType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:57:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolePermissionRule.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Rules\\RolePermissionRule.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Rules\\RolePermissionRule.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Rules\\RolePermissionRule.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Rules\\RolePermissionRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:02:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckAccessSercvice.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\CheckAccessSercvice.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Services\\CheckAccessSercvice.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\CheckAccessSercvice.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Services\\CheckAccessSercvice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:04:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\ValidationService.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:06:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Program.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Program.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:54:36.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Services\\UserService.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:03:55.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\ResourceType.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Constants\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\ResourceType.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Constants\\ResourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:56:59.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccessRule.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Rules\\IAccessRule.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Rules\\IAccessRule.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Rules\\IAccessRule.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Rules\\IAccessRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:01:51.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\Resource.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Models\\Resource.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:00:10.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\Role.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Constants\\Role.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Constants\\Role.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Constants\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:56:47.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\User.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:59:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDecision.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\AccessDecision.cs",
+              "RelativeDocumentMoniker": "RuleBasedAccess\\Models\\AccessDecision.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\RuleBasedAccess\\RuleBasedAccess\\Models\\AccessDecision.cs",
+              "RelativeToolTip": "RuleBasedAccess\\Models\\AccessDecision.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:00:57.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

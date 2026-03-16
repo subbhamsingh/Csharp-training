@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net10.0\SolidPrinciple.exe
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net10.0\SolidPrinciple.deps.json
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net10.0\SolidPrinciple.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net10.0\SolidPrinciple.dll
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\net10.0\SolidPrinciple.pdb
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.dll
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\refint\SolidPrinciple.dll
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.pdb
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\SolidPrinciple.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\net10.0\ref\SolidPrinciple.dll

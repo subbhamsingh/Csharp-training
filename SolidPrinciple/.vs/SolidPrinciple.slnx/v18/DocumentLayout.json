@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\dip\\goodexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\dip\\goodexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\dip\\badexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\dip\\badexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\isp\\workeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\isp\\workeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\isp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\isp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\lsp\\goodexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\lsp\\goodexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\lsp\\badexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\lsp\\badexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\ocp\\discountcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\ocp\\discountcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\ocp\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\ocp\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\srp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\srp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|c:\\users\\rajveer.singh\\source\\repos\\solidprinciple\\solidprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6062D7-9691-48BD-A439-6AE2DB28E6C5}|SolidPrinciple\\SolidPrinciple.csproj|solutionrelative:solidprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\SRP\\User.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\SRP\\User.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\SRP\\User.cs",
+              "RelativeToolTip": "SolidPrinciple\\SRP\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:46:22.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BadExample.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\LSP\\BadExample.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\LSP\\BadExample.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\LSP\\BadExample.cs",
+              "RelativeToolTip": "SolidPrinciple\\LSP\\BadExample.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:40:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\ISP\\IWorker.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\ISP\\IWorker.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\ISP\\IWorker.cs",
+              "RelativeToolTip": "SolidPrinciple\\ISP\\IWorker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:22:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoodExample.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\LSP\\GoodExample.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\LSP\\GoodExample.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\LSP\\GoodExample.cs",
+              "RelativeToolTip": "SolidPrinciple\\LSP\\GoodExample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:41:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkEat.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\ISP\\WorkEat.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\ISP\\WorkEat.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\ISP\\WorkEat.cs",
+              "RelativeToolTip": "SolidPrinciple\\ISP\\WorkEat.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:25:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BadExample.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\DIP\\BadExample.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\DIP\\BadExample.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\DIP\\BadExample.cs",
+              "RelativeToolTip": "SolidPrinciple\\DIP\\BadExample.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:30:35.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoodExample.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\DIP\\GoodExample.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\DIP\\GoodExample.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\DIP\\GoodExample.cs",
+              "RelativeToolTip": "SolidPrinciple\\DIP\\GoodExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:33:27.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountCalc.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\OCP\\DiscountCalc.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\OCP\\DiscountCalc.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\OCP\\DiscountCalc.cs",
+              "RelativeToolTip": "SolidPrinciple\\OCP\\DiscountCalc.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:53:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\OCP\\IDiscount.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\OCP\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\OCP\\IDiscount.cs",
+              "RelativeToolTip": "SolidPrinciple\\OCP\\IDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:55:46.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\SolidPrinciple\\SolidPrinciple\\Program.cs",
+              "RelativeToolTip": "SolidPrinciple\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:44:42.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

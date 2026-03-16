@@ -1,0 +1,14 @@
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\bin\Debug\net10.0\EventsPractise.exe
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\bin\Debug\net10.0\EventsPractise.deps.json
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\bin\Debug\net10.0\EventsPractise.runtimeconfig.json
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\bin\Debug\net10.0\EventsPractise.dll
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\bin\Debug\net10.0\EventsPractise.pdb
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.AssemblyInfoInputs.cache
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.AssemblyInfo.cs
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.csproj.CoreCompileInputs.cache
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.dll
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\refint\EventsPractise.dll
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.pdb
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\EventsPractise.genruntimeconfig.cache
+C:\Users\rajveer.singh\source\repos\EventsPractise\EventsPractise\obj\Debug\net10.0\ref\EventsPractise.dll

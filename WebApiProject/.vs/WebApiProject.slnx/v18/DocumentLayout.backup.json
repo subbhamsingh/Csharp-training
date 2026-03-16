@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\migrations\\20260301092548_initialcreate.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\migrations\\20260301092548_initialcreate.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\repositories\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\repositories\\borrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\webapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\webapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\services\\iborrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\services\\iborrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\services\\borrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\services\\borrowrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\repositories\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\repositories\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\exceptions\\bookalreadyborrowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\exceptions\\bookalreadyborrowedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\dtos\\updatebookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\dtos\\updatebookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\dtos\\createbookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\dtos\\createbookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\dtos\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\dtos\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|c:\\users\\rajveer.singh\\source\\repos\\webapiproject\\webapiproject\\webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB85DB0B-CE8B-7AAC-77A8-D0849EE3F66C}|WebApiProject\\WebApiProject.csproj|solutionrelative:webapiproject\\webapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260301092548_InitialCreate.cs.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Migrations\\20260301092548_InitialCreate.cs.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Migrations\\20260301092548_InitialCreate.cs.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Migrations\\20260301092548_InitialCreate.cs.cs",
+              "RelativeToolTip": "WebApiProject\\Migrations\\20260301092548_InitialCreate.cs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:25:48.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "WebApiProject\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:17:14.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Program.cs",
+              "RelativeToolTip": "WebApiProject\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:00:27.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiProject\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:54:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApiProject\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T18:28:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\appsettings.json",
+              "RelativeToolTip": "WebApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T08:58:48.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApiProject.http",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\WebApiProject.http",
+              "RelativeDocumentMoniker": "WebApiProject\\WebApiProject.http",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\WebApiProject.http",
+              "RelativeToolTip": "WebApiProject\\WebApiProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-02T15:51:27.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBorrowRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\IBorrowRecordService.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Services\\IBorrowRecordService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\IBorrowRecordService.cs",
+              "RelativeToolTip": "WebApiProject\\Services\\IBorrowRecordService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:21:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\BorrowRecordRepository.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Repositories\\BorrowRecordRepository.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\BorrowRecordRepository.cs",
+              "RelativeToolTip": "WebApiProject\\Repositories\\BorrowRecordRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:35:12.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\IBookService.cs",
+              "RelativeToolTip": "WebApiProject\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:20:36.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\BorrowRecordService.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Services\\BorrowRecordService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\BorrowRecordService.cs",
+              "RelativeToolTip": "WebApiProject\\Services\\BorrowRecordService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:21:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Services\\BookService.cs",
+              "RelativeToolTip": "WebApiProject\\Services\\BookService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:21:02.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBorrowRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\IBorrowRecordRepository.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Repositories\\IBorrowRecordRepository.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\IBorrowRecordRepository.cs",
+              "RelativeToolTip": "WebApiProject\\Repositories\\IBorrowRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:34:56.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "WebApiProject\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:33:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "WebApiProject\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAnwEUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:33:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Models\\Book.cs",
+              "RelativeToolTip": "WebApiProject\\Models\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:16:59.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "WebApiProject\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:31:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "WebApiProject\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:03:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "WebApiProject\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:55:48.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookAlreadyBorrowedException.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Exceptions\\BookAlreadyBorrowedException.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Exceptions\\BookAlreadyBorrowedException.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Exceptions\\BookAlreadyBorrowedException.cs",
+              "RelativeToolTip": "WebApiProject\\Exceptions\\BookAlreadyBorrowedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T02:56:10.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateBookRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\UpdateBookRequest.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\DTOs\\UpdateBookRequest.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\UpdateBookRequest.cs",
+              "RelativeToolTip": "WebApiProject\\DTOs\\UpdateBookRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:05:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBookRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\CreateBookRequest.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\DTOs\\CreateBookRequest.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\CreateBookRequest.cs",
+              "RelativeToolTip": "WebApiProject\\DTOs\\CreateBookRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:05:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\BookResponse.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\DTOs\\BookResponse.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\DTOs\\BookResponse.cs",
+              "RelativeToolTip": "WebApiProject\\DTOs\\BookResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:06:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "WebApiProject\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:39:34.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApiProject\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApiProject\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T23:38:57.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebApiProject.csproj",
+              "DocumentMoniker": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\WebApiProject.csproj",
+              "RelativeDocumentMoniker": "WebApiProject\\WebApiProject.csproj",
+              "ToolTip": "C:\\Users\\rajveer.singh\\source\\repos\\WebApiProject\\WebApiProject\\WebApiProject.csproj",
+              "RelativeToolTip": "WebApiProject\\WebApiProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T08:53:56.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
